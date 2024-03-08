@@ -1,0 +1,6 @@
+total 1
+drwxr-xr-x 1 bigjl 197612  0 Mar  5 11:57 dir1/
+drwxr-xr-x 1 bigjl 197612  0 Mar  5 12:04 dir2/
+-rw-r--r-- 1 bigjl 197612  0 Mar  5 12:00 file3.txt
+-rw-r--r-- 1 bigjl 197612 47 Mar  5 12:14 input.txt
+-rw-r--r-- 1 bigjl 197612  0 Mar  5 12:15 output.txt
